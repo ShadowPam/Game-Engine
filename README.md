@@ -2,7 +2,7 @@
 ### Author: Mahdi Wandi, Johan Challita, Robert Gosa
 
 ![Demo](https://i.imgur.com/RzlfB0r.png)
-<br>A 2D Game engine with simple platformer game demo.
+<br>A 2D Game engine with a simple platformer game demo.
 
 ## Description
 Exam project for High School. Objective was to create something using any of the technical skills acquired over the three years in High School. We decided on creating a 2D Game Engine with an existing API to ease game development of games in Java.
