@@ -8,7 +8,7 @@
 Exam project for High School. Objective was to create something using any of the technical skills acquired over the three years in High School. We decided on creating a 2D Game Engine with an existing API to ease game development of games in Java.
 
 ## Report
-![Mahdi's report](https://docs.google.com/document/d/1VC4ZAkiL4pasXo8bzVVrHYl-IotAML531a67gDHpl_g/edit?usp=sharing)
+[Mahdi's report](https://docs.google.com/document/d/1VC4ZAkiL4pasXo8bzVVrHYl-IotAML531a67gDHpl_g/edit?usp=sharing)
 
 ## Installation
 1. Navigate to folder Game_Engine/src.
